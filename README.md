@@ -30,3 +30,6 @@ lalu buat contoh pull request untuk test yang gagal dan berhasil.
 
 # Soal Tugas UAS 3
 Melakukan Testing Automation basic dengan web localhost
+
+# Link Tugas UAS 3
+https://github.com/Eksanynurf/UASTestingQA/tree/Automation
