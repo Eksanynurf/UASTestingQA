@@ -25,8 +25,8 @@ tugasnya adalah edit .github/workflows/build.yml di branch dev-test supaya CI da
 lalu buat contoh pull request untuk test yang gagal dan berhasil.
 
 # Link Tugas UAS 2
-https://github.com/agungperdananto/SimpleCart/pull/18 <b>success</b>
-https://github.com/agungperdananto/SimpleCart/pull/19 <b>failed</b>
+<p>https://github.com/agungperdananto/SimpleCart/pull/18 <b>success</b> </p>
+<p>https://github.com/agungperdananto/SimpleCart/pull/19 <b>failed</b> </p>
 
 # Soal Tugas UAS 3
 Melakukan Testing Automation basic dengan web localhost
